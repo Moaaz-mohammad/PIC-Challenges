@@ -15,3 +15,5 @@
 ## Crack the Gate 1 ==> SCORE 100 "Its need to edit request of website and add to headers { X-Dev-Access: yes } and check the payload of response"
 
 ## WebDecode ==> SCORE 50 "Looking for secret text or encode on the website and decode it using CyberChef tools"
+
+## head-dump ==> SCORE 50 "Checking Api Documentation and downloading headdump file and change ext of it to .txt"

@@ -17,3 +17,5 @@
 ## WebDecode ==> SCORE 50 "Looking for secret text or encode on the website and decode it using CyberChef tools"
 
 ## head-dump ==> SCORE 50 "Checking Api Documentation and downloading headdump file and change ext of it to .txt"
+
+## Cookie Monster Secret Recipe ==> SCORE 50 "Its Ask you to find hidden cookie and it is encode you can decode it using CyperChef"

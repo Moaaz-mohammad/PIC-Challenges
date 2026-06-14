@@ -1,4 +1,5 @@
-1. # PIC-Challenges have been DONE
+1. # PIC-Challenges have been DONE 
+### Total Score = 1400
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 

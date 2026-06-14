@@ -30,5 +30,5 @@
     
 17. ## Bases ==> SCORE 100 "Convert base64 to find flag"
     
-18. strings it ==> SCORE 100  "Big text contain a flag somewhere"
+18. ## strings it ==> SCORE 100  "Big text contain a flag somewhere"
 

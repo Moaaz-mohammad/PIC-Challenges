@@ -27,3 +27,5 @@
 15. ## 13-Cryptography ==> SCORE 100 "Its need you to ROT13 the text by hand or using tools can ROT13 letters"
 
 16. ## Binary Digits ==> SCORE 100 "Binary Long Text which is related to an image contain the flag after converting binary text"
+    
+17. ## Bases ==> SCORE 100 "Convert base64 to find flag"

@@ -9,3 +9,5 @@
 ## runme.py => SCORE 100 "Run a specific python file"
 
 ## repetitions => SCORE 100  decode incode text reapeated I did it by "CyberChef" tool
+
+## Lets Warm Up => SCORE 50 Convert  0x70 to text "I Converted it to binary after that from binary to ASCII"

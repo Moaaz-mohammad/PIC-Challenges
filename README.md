@@ -19,3 +19,5 @@
 ## head-dump ==> SCORE 50 "Checking Api Documentation and downloading headdump file and change ext of it to .txt"
 
 ## Cookie Monster Secret Recipe ==> SCORE 50 "Its Ask you to find hidden cookie and it is encode you can decode it using CyperChef"
+
+## Local Authority ==> SCORE 100 "Looking and test Network inspect and find flag"

@@ -1,5 +1,5 @@
 1. # PIC-Challenges have been DONE 
-### Total Score = 1400
+### Total Score = 1500
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 
@@ -32,4 +32,4 @@
 17. ## Bases ==> SCORE 100 "Convert base64 to find flag"
     
 18. ## strings it ==> SCORE 100  "Big text contain a flag somewhere"
-
+19. ## StegoRSA ==> SCORE 100

@@ -1,5 +1,5 @@
 1. # PIC-Challenges have been DONE 
-### Total Score = 1550
+### Total Score = 1650
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 
@@ -36,3 +36,5 @@
 19. ## StegoRSA ==> SCORE 100
 
 20. ## Cookie Monster Secret Recipe ==> SCORE 50 "Looging for flag inside cookies and it is encrypted as base64 you have to handle that"
+
+21. ## CanYouSee ==> SCORE 100 "Image metadata and it is encrypted as base64"

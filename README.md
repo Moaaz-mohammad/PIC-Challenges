@@ -1,5 +1,5 @@
 1. # PIC-Challenges have been DONE 
-### Total Score = 1650
+### Total Score = 1700
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 
@@ -38,3 +38,5 @@
 20. ## Cookie Monster Secret Recipe ==> SCORE 50 "Looging for flag inside cookies and it is encrypted as base64 you have to handle that"
 
 21. ## CanYouSee ==> SCORE 100 "Image metadata and it is encrypted as base64"
+
+22. ## Bookmarklet ==> SCORE 50 "Asks you to run a js code from console and website return alert that contain the flag"

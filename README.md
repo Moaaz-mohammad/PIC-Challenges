@@ -1,5 +1,5 @@
 1. # PIC-Challenges have been DONE 
-### Total Score = 1700
+### Total Score = 1800
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 
@@ -40,3 +40,5 @@
 21. ## CanYouSee ==> SCORE 100 "Image metadata and it is encrypted as base64"
 
 22. ## Bookmarklet ==> SCORE 50 "Asks you to run a js code from console and website return alert that contain the flag"
+
+23. ## Unminify ==> SCORE 100 "Also you should look from browser inside code and fing the flag"

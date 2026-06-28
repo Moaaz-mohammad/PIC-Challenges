@@ -1,5 +1,5 @@
 1. # PIC-Challenges have been DONE 
-### Total Score = 1900
+### Total Score = 1800
 
 3. ## Inspect HTML ===> SCORE 100 "F12 and find comment"  
 
@@ -43,4 +43,4 @@
 
 23. ## Unminify ==> SCORE 100 "Also you should look from browser inside code and fing the flag"
 
-24. ## dont-use-client-side ==> SCORE 100 "Find flag inside js code function"
+24. ## dont-use-client-side ==> SCORE 100 "Find flag inside js code function" "Not finished"
